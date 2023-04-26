@@ -1,0 +1,23 @@
+{
+    "templateDesignerEditor": "[data-cy=app-editor]",
+    "templateDesignerPage": ".fo-block",
+    "contentBlock": "[data-cy=outline-node-block]",
+    "contentText": "[data-cy=outline-node-text]",
+    "contentImage": "[data-cy=palette-btn-image]",
+    "contentList": "[data-cy=outline-node-list]",
+    "contentTable": "[data-cy=outline-node-table]",
+    "contentComment": "[data-cy=outline-node-comment]",
+    "palettePanel": "[data-cy=palette-pane]",
+    "paletteText": "[data-cy=palette-btn-text]",
+    "paletteBlock": "[data-cy=palette-btn-block]",
+    "paletteList": "[data-cy=palette-btn-list]",
+    "paletteImage": "[data-cy=outline-node-external-graphic]",
+    "paletteTable": "[data-cy=palette-btn-table]",
+    "paletteComment": "[data-cy=palette-btn-comment]",
+    "saveButton": "[data-cy=save-this-template]",
+    "tableGrid": "[data-cy=table-grid]",
+    "tableBody": "[data-cy=outline-node-table-body]",
+    "openCollapseButton": "[data-cy=icon-collapse-opened]",
+    "tableRow": "[data-cy=outline-node-table-row]",
+    "tableCell": "[data-cy=outline-node-table-cell]"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "infinica_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^12.10.0"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3"
+  }
+}
